@@ -1,4 +1,4 @@
 # demo_mimo
-First Repo in GitHub
+First Repository in GitHub.
 <br>
 Author: Mimansha Gupta
